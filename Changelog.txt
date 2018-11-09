@@ -1,0 +1,15 @@
+v1.4 - April 5th, 2015
+o Updated for SMF 2.1 Beta 1
+
+v1.3 - January 19th, 2015
+o License change to Simplified BSD.  No functionality change.
+
+v1.2 - January 12th, 2015
+o Removed most wildcards from the word censor list.
+o Corrected link to the mod in the descriptions.
+
+v1.1 - March 25, 2014
+o Rewrote edit_db.php to properly set the database settings
+
+v1.0 - October 22th, 2013
+o Initial Release
