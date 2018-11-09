@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!DOCTYPE package-info SYSTEM "http://www.simplemachines.org/xml/package-info">
+<package-info xmlns="http://www.simplemachines.org/xml/package-info" xmlns:smf="http://www.simplemachines.org/">
+	<id>dougiefresh:WordCensorList</id>
+	<name>Word Censor List</name>
+	<version>1.1</version>
+	<type>modification</type>
+
+	<install for="2.0 - 2.0.99">
+		<readme type="file" parsebbc="true">readme.txt</readme>
+		<code>edit_db.php</code>
+	</install>
+	<uninstall for="2.0 - 2.0.99">
+		<code>edit_db.php</code>
+	</uninstall>
+</package-info>
